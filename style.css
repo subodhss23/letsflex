@@ -1,0 +1,44 @@
+/* Reset */
+
+*{
+   box-sizing: border-box;
+}
+
+body, html, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin: 0.1em;
+}
+
+ul{
+  list-style-type: none;
+}
+
+/* main */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body{
+  display: flex;
+  flex-direction: column;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* variables */
+
+/* Navigation */
+
+/* Hero */
+
+/* Email */
+
+/* Features */
+
+/* CTA */
+
+
+/* Footer */
+
+/* Other */
